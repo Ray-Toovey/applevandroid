@@ -1,0 +1,59 @@
+body{
+    background-color:#cabfb6;
+}
+
+div{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding: 100px;
+}
+
+.img{
+    text-align: center;
+}
+
+.debate{
+    margin: auto;
+    width: 150px;
+    padding: 10px 10px 10px 20px;
+    color: black;
+    background-color: #c9793b;
+    border-radius: 5px;
+    margin-bottom: 30px
+}
+
+a{
+    color:black;
+    text-decoration: none
+}
+
+a:hover{
+    border: 2px black solid
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+    font-family: 'Proza Libre', sans-serif;
+}
+
+.vsand{
+    background-color: #a4c93b;
+    padding: 5px 25px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.vsapp{
+    background-color: #b6bcca;
+    padding: 5px 25px;
+    font-size: 20px;
+    border-radius: 5px;
+}
